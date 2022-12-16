@@ -22,5 +22,15 @@ public class TestGit {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void newfileTest1() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void sample251() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
