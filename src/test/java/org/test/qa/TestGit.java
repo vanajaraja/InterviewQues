@@ -11,4 +11,8 @@ public class TestGit {
 		// TODO Auto-generated method stub
 
 	}
+	private void test4() {
+		// TODO Auto-generated method stub
+
+	}
 }
