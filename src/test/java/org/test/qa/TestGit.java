@@ -15,4 +15,8 @@ public class TestGit {
 		// TODO Auto-generated method stub
 
 	}
+	private void mergeBranch() {
+		// TODO Auto-generated method stub
+
+	}
 }
