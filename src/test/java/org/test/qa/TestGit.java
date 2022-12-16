@@ -32,5 +32,9 @@ public class TestGit {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public TestGit() {
+		// TODO Auto-generated constructor stub
+	}
 
 }
