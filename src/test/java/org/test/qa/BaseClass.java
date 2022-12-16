@@ -74,7 +74,6 @@ public class BaseClass {
 	public static void writeLogFile() throws SecurityException, IOException {
 		logger = Logger.getLogger("MyLog");
 		FileHandler fh;
-		System.out.println("Sample change");
 		String dataAndTime = dateAndTimeFormatToAppendReports();
 
 		try {
