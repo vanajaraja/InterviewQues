@@ -23,8 +23,23 @@ public class TestGit {
 
 	}
 	
+
 	private void newFile257() {
 		// TODO Auto-generated method stub
+	}
+
+	private void newfileTest1() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	private void sample251() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public TestGit() {
+		// TODO Auto-generated constructor stub
 
 	}
 
