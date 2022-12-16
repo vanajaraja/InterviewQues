@@ -52,6 +52,10 @@ public class TestGit {
 	public TestGit() {
 		// TODO Auto-generated constructor stub
 	}
+	private void merge402() {
+		// TODO Auto-generated method stub
+
+	}
 
 
 
