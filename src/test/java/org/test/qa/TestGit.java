@@ -24,6 +24,7 @@ public class TestGit {
 	}
 	
 
+
 	private void test3() {
 		// TODO Auto-generated method stub
 
@@ -46,6 +47,11 @@ public class TestGit {
 	}
 
 
+	private void newFile257() {
+		// TODO Auto-generated method stub
+	}
+
+
 	private void newfileTest1() {
 		// TODO Auto-generated method stub
 
@@ -58,6 +64,7 @@ public class TestGit {
 	
 	public TestGit() {
 		// TODO Auto-generated constructor stub
+
 	}
 	private void merge402() {
 		// TODO Auto-generated method stub
