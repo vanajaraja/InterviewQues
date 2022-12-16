@@ -36,6 +36,19 @@ public class TestGit {
 
 
 	}
+	
+	private void test405() {
+		// TODO Auto-generated method stub
+
+	}
+	
+	
+
+	private void mergeBranch() {
+		// TODO Auto-generated method stub
+
+	}
+
 
 	private void newfileTest1() {
 		// TODO Auto-generated method stub
@@ -51,6 +64,19 @@ public class TestGit {
 		// TODO Auto-generated constructor stub
 
 	}
+	private void merge402() {
+		// TODO Auto-generated method stub
+
+	}
+	
+
+	private void test424() {
+
+
+		// TODO Auto-generated method stub
+
+	}
+
 
 
 }
