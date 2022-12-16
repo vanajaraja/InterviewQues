@@ -26,6 +26,15 @@ public class TestGit {
 
 	private void newFile257() {
 		// TODO Auto-generated method stub
+
+	private void test3() {
+		// TODO Auto-generated method stub
+
+	}
+	private void test4() {
+		// TODO Auto-generated method stub
+
+
 	}
 
 	private void newfileTest1() {
@@ -42,5 +51,6 @@ public class TestGit {
 		// TODO Auto-generated constructor stub
 
 	}
+
 
 }
