@@ -18,5 +18,9 @@ public class TestGit {
 		System.out.println("Smaple code");
 	}
 
+	private void testnewFile() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
