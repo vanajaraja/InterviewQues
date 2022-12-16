@@ -12,5 +12,9 @@ public class TestCommit {
 
 	}
 	
+	private void commit3() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
