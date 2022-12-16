@@ -7,5 +7,10 @@ public class TestCommit {
 
 	}
 	
+	private void commit2() {
+		// TODO Auto-generated method stub
+
+	}
+	
 
 }
