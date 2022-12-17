@@ -22,7 +22,7 @@ public class TestCommit {
 
 	}
 	
-	private void commit4() {
+	private void commit5() {
 		// TODO Auto-generated method stub
 //Commit 4 method craeted
 	}
