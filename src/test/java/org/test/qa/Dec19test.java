@@ -11,9 +11,5 @@ public class Dec19test {
 		// TODO Auto-generated method stub
 
 	}
-private void commit3() {
-	// TODO Auto-generated method stub
-
-}
 
 }
